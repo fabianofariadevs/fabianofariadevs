@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/fabiano_tibi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "https://www.linkedin.com/in/fabiano-augusto-de-faria-09151b178/">
   </a>
 </div> 
