@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Fabiano,+sou+natural+de+BH-MG;Graduado+em+administração+de+empresas;Com+12+anos+de+experiência+em+Logística;Retornei+aos+estudos+na+área+de+programação...;pois+descobri+que+sou+apaixonado+por+TI;E+estou+à+procura+de+Novos+Desafios...;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianofariadevs&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabianofariadevs&bg_color=8e7fa4&color=050505&line=0bfee2&point=1a0af5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabianofariadevs&bg_color=19181b&color=19a5b8&line=1c34b0&point=10e0c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=fabianofariadevs&theme=gotham&hide_border=true&area=true)
 
