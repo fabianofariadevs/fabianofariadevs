@@ -8,7 +8,8 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabianofariadevs&bg_color=19181b&color=19a5b8&line=1c34b0&point=10e0c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=fabianofariadevs&theme=gotham&hide_border=true&area=true)
 
