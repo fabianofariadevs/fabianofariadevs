@@ -1,18 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Fabiano,+sou+natural+de+BH-MG;Graduado+em+administração+de+empresas;Com+12+anos+de+experiência+em+Logística;Retornei+os+estudos+na+área+de+programação...;pois+descobri+que+sou+apaixonado+por+TI;Estou+à+procura+de+Novos+Desafios...;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Fabiano;sou+natural+de+BH-MG;Graduado+em+administração+de+empresas;12+anos+de+experiência+em+Logística;Retornei+os+estudos+na+área+de+programação...;Cursando+Análise+Desenv.+de+Sistemas:pois+descobri+que+sou+apaixonado+por+TI;Estou+à+procura+de+Novos+Desafios...;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)]
 
 <br>
 <br>
-<br>
 
 
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=fabianofariadevs&theme=gotham&hide_border=true&area=true)
+[![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=fabianofariadevs&theme=gotham&hide_border=true&area=true)] -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fabianofariadevs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -26,8 +22,8 @@
  
 ### Principais Habilidades:
 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">8.1</code>
-&nbsp&nbsp&nbsp&nbsp<img style="height:50px;width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">8.1 </code>
+<code><img style="height:50px;width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">3.9</code>
  
 ### Ferramentas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
@@ -56,10 +52,13 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<img style="height:50px;width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+
+
 
 
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
+<br><p align="centre"><b><code>Visitantes</code></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fabianofariadevs}/count.svg" /></p> 
 <br></div>
 
