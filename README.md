@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Fabiano,+sou+natural+de+BH-MG;Graduado+em+administração+de+empresas;Com+12+anos+de+experiência+em+Logística;Retornei+os+estudos+na+área+de+programação...;pois+descobri+que+sou+apaixonado+por+TI;Estou+à+procura+de+Novos+Desafios...;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Fabiano,+sou+natural+de+BH-MG;Graduado+em+administração+de+empresas;Com+12+anos+de+experiência+em+Logística;Retornei+os+estudos+na+área+de+programação...;pois+descobri+que+sou+apaixonado+por+TI;Estou+à+procura+de+Novos+Desafios...;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
